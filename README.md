@@ -35,9 +35,9 @@ But as we all know, our test data-set is a bit biased. In order to examine our t
 ``` 
 Where 
 ```
-"sensitivity" = SEN = TP / P = .99 
+"sensitivity" = SEN = TP / P = 990 / 990 = 1 
 ```
 and 
 ```
-"specificity" = SPE = TN / N = .01. 
+"specificity" = SPE = TN / N = 0 / 10 = 0 
 ```
