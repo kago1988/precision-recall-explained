@@ -11,7 +11,7 @@ FN = apples, classified as oranges
 
 Here an example: 
 
-Given a trained predictor f: {orange, apple} -> orange. I.e. a predictor, which always predicts "apple". 
+Given a trained predictor f: input -> apple. I.e. a predictor, which always predicts "apple". 
 We want to test the performance of this predictor on the following test data-set: 990 apples and 10 oranges. 
 
 We have: 
