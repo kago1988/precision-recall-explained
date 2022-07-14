@@ -1,5 +1,5 @@
 # precision-recall-explained
-(Hobby) Here is an illustration on how to calculate precision and recall on a trained classifier. 
+(Hobby) Here is an illustration on how to calculate precision and recall of a <b>trained classifier<\b>. 
 First, precision and recall are on the test data-set are given by the formulas 
 
 ```
