@@ -17,8 +17,8 @@ We want to test the performance of this predictor on the following test data-set
 We have: 
 ```
 TP = 990 
-FP = 10 
 TN = 0 
+FP = 10 
 FN = 0
 
 ACC = .99
