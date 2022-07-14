@@ -50,3 +50,4 @@ It follows:
 ``` 
 (SEN + SPE) / 2 = 0.5
 ``` 
+which is- as it should be- not very high. 
