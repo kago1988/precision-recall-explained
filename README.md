@@ -27,7 +27,10 @@ REC = 990 / (990 + 0) = 1
 ```
 
 Our predictor would have a very high accuracy of 99%. A precision of 99%. And a recall of 100%. 
-Precision can be seen as a measure of quality, and recall as a measure of quantity. So our predictor is really good for this test data-set. 
+Precision can be seen as a measure of quality, and recall as a measure of quantity: 
+**A system with high precision might leave some good items out, but what it returns is of high quality. 
+A system with high recall might give you a lot of duds, but it also returns most of the good items.**
+All in all, our predictor is really good for this test data-set. 
 
 But as we all know, our test data-set is a bit biased. 
 Precision and Recall can also help us find bias in the data-set. Consider the following calculation: 
