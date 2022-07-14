@@ -29,7 +29,7 @@ REC = 990 / (990 + 0) = 1
 Our predictor would have a very high accuracy of 99%. A precision of 99%. And a recall of 100%. 
 Precision can be seen as a measure of quality, and recall as a measure of quantity. So our predictor is really good for this test data-set. 
 
-But as we all know, our test data-set looks is a bit biased. In order to examine our test data-set for bias we can calculate the "balanced accuracy" 
+But as we all know, our test data-set is a bit biased. In order to examine our test data-set for bias we can calculate the "balanced accuracy" 
 ``` 
 (SEN + SPE) / 2 = 0.5
 ``` 
