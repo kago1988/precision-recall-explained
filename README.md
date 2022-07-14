@@ -36,7 +36,7 @@ But as we all know, our test data-set is a bit biased.
 Precision and Recall can also help us find bias in the data-set. Consider the following calculation: 
 We can calculate the "balanced accuracy" 
 ``` 
-(SEN + SPE) / 2 = 0.5
+(SEN + SPE) / 2 
 ``` 
 Where 
 ```
@@ -44,5 +44,9 @@ Where
 ```
 and 
 ```
-"specificity" = SPE = TN / N = 0 / 10 = 0 
+"specificity" = SPE = TN / N = 0 / 10 = 0. 
 ```
+It follows: 
+``` 
+(SEN + SPE) / 2 = 0.5
+``` 
