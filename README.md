@@ -1,13 +1,13 @@
 # precision-recall-explained
-(Hobby) Here an illustration, how precision and recall is meant
+(Hobby) Here an illustration, how precision and recall of a trained classifier is calculated. 
+First, precision and recall are calculated on the test data-set by the formulas 
 
-In this illustration you can see how the precision and recall is being calculated. 
-
+```
 TP = apples, classified as apples 
 TN = oranges, classified as oranges 
 FP = oranges, classified as apples 
 FN = apples, classified as oranges 
-
+```
 
 Precision and Recall can help us find Bias in the data-set. Consider the following example: 
 
