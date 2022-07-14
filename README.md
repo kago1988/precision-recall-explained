@@ -15,7 +15,8 @@ FP = 10
 TN = 0 
 FN = 0
 
-PRE = 990 / (1000) 
+ACC = .99
+PRE = 990 / (990 + 10) = .99 
 REC = 990 / (990 + 0) = 1 
 ```
 
@@ -25,4 +26,11 @@ In order to examine our test data-set for bias we can calculate the "balanced ac
 ``` 
 (SEN + SPE) / 2 = 0.5
 ``` 
-Where "sensitivity" = SEN = TP / P = .99 and "specificity" = SPE = TN / N = .01. 
+Where 
+```
+"sensitivity" = SEN = TP / P = .99 
+```
+and 
+```
+"specificity" = SPE = TN / N = .01. 
+```
