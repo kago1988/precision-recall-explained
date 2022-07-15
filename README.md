@@ -26,7 +26,7 @@ PRE = 990 / (990 + 10) = .99
 REC = 990 / (990 + 0) = 1 
 ```
 
-Our predictor would have a very high accuracy of 99%. A precision of 99%. And a recall of 100%. 
+Our predictor would have a very high accuracy of 99%. A very high precision of 99%. And a perfect recall of 100%. 
 Precision can be seen as a measure of quality, and recall as a measure of quantity: 
 **A system with high precision might leave some good items out, but what it returns is of high quality. 
 A system with high recall might give you a lot of duds, but it also returns most of the good items.**
