@@ -3,10 +3,10 @@
 First, precision and recall on the test data-set are given by 
 
 ```
-TP = apples, classified as apples 
-TN = oranges, classified as oranges 
-FP = oranges, classified as apples 
-FN = apples, classified as oranges 
+True Positives = apples, classified as apples 
+True Negatives = oranges, classified as oranges 
+False Positives = oranges, classified as apples 
+False Negatives = apples, classified as oranges 
 ```
 
 Here an example: 
