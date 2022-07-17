@@ -32,8 +32,7 @@ Precision can be seen as a measure of quality, and recall as a measure of quanti
 A system with high recall might give you a lot of duds, but it also returns most of the good items.**
 All in all, our predictor is really good for this test data-set. 
 
-But as we all know, our test data-set is a bit biased. 
-Precision and Recall can also help us find bias in the data-set. Consider the following calculation: 
+But as we all know, our test data-set is a bit biased. To show this in formulas: Consider the following calculation: 
 We can calculate the "balanced accuracy" 
 ``` 
 (SEN + SPE) / 2 
