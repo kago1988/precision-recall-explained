@@ -2,6 +2,8 @@
 (Hobby) Here is an illustration on how to calculate **precision** and **recall** of a **trained classifier** on a **test data-set**. 
 First, precision and recall on the test data-set are given by 
 
+![](precision_recall.jpg)
+
 ```
 True Positives = apples, classified as apples 
 True Negatives = oranges, classified as oranges 
